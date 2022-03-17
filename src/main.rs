@@ -4,7 +4,6 @@
 use clap::Parser;
 use regex::Regex;
 use std::error::Error;
-use std::ffi::OsStr;
 use std::fs;
 use std::path::{Path, PathBuf};
 

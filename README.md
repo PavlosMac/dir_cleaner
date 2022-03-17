@@ -1,4 +1,4 @@
-### Dir Cleaner - remove files from os directory
+### Rusty Dir-Clean - remove files from os directory
 
 ## Pass args <path> <ext>
 
